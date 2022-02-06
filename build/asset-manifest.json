@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chandrabhushan-kumar.github.io/website/static/css/main.d69a9fca.css",
+    "main.js": "/chandrabhushan-kumar.github.io/website/static/js/main.f44dfee5.js",
+    "index.html": "/chandrabhushan-kumar.github.io/website/index.html",
+    "main.d69a9fca.css.map": "/chandrabhushan-kumar.github.io/website/static/css/main.d69a9fca.css.map",
+    "main.f44dfee5.js.map": "/chandrabhushan-kumar.github.io/website/static/js/main.f44dfee5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d69a9fca.css",
+    "static/js/main.f44dfee5.js"
+  ]
+}
